@@ -6,12 +6,20 @@
 Aquí podrá ver algunos proyectos que he desarrollado o estoy desarrollando en los diferentes leguajes o tecnologías que conozco
 
 **Conocimientos:**
+
 *C# 
+
 *Java (básico) 
+
 *JavaScript 
+
 *HTML 
+
 *CSS 
+
 *ReactJS 
+
 *NodeJS (aprendiendo) 
+
 *ASP.Net (aprendiendo) 
 
