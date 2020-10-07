@@ -5,7 +5,7 @@
 
 Aquí podrá ver algunos proyectos que he desarrollado o estoy desarrollando en los diferentes leguajes o tecnologías que conozco
 
-#####**Conocimientos:**
+**Conocimientos:**
 
 *C# 
 
@@ -24,7 +24,7 @@ Aquí podrá ver algunos proyectos que he desarrollado o estoy desarrollando en 
 *ASP.Net (aprendiendo) 
 
 
-#####**Redes Sociales:**
-Linkedin: (www.linkedin.com/in/franciscomataprogramacion)
+**Redes Sociales:**
+Linkedin: www.linkedin.com/in/franciscomataprogramacion
 
 
