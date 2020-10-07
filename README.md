@@ -19,6 +19,8 @@ Aquí podrá ver algunos proyectos que he desarrollado o estoy desarrollando en 
 
 *ReactJS 
 
+*MySQL
+
 *NodeJS (aprendiendo) 
 
 *ASP.Net (aprendiendo) 
