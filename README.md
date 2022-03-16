@@ -1,33 +1,8 @@
-# ¡Hola, soy Francisco Mata!
-## Bienvenido a mi GitHub.
+# ¡Hi, I'm Francisco Mata!
+## Welcome to my GitHub.
 
 ![](https://4.bp.blogspot.com/-W7l7-YMEmLg/WfJ1SO_02_I/AAAAAAAAB7k/gW-QVpN-yWcwyYeR5mnKE53S-4E2KYJ2ACLcBGAs/s1600/giphy.gif)
 
-Aquí podrá ver algunos proyectos que he desarrollado o estoy desarrollando en los diferentes leguajes o tecnologías que conozco
-
-**Conocimientos:**
-
-*C# 
-
-*Java (básico) 
-
-*JavaScript 
-
-*HTML 
-
-*CSS 
-
-*ReactJS 
-
-*MySQL
-
-*NodeJS (aprendiendo) 
-
-*ASP.Net (aprendiendo) 
-
-
-**Redes Sociales:**
+** Social media:**
 
 Linkedin: www.linkedin.com/in/franciscomataprogramacion
-
-
